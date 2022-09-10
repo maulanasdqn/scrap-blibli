@@ -1,7 +1,7 @@
 {
   "name": "blibli-scrap",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "description": "",
   "main": "main.js",
   "scripts": {
